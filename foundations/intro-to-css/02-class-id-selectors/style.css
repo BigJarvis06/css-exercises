@@ -1,0 +1,16 @@
+.test.class {
+    background-color:lightcoral;
+    font-style: "Verdana", "DejaVu Sans", sans-serif;
+}
+.test#three {
+    font-size: 24px;
+}
+#two {
+font-size: 36px;
+color: blue;
+}
+#four {
+font-weight: bold;
+background-color: lightgreen;
+font-size: 24px;
+}
